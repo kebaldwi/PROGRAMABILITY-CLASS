@@ -1,2 +1,2 @@
-# PROGRAMABILITY-CLASS
+# se-training
 TRAINING
